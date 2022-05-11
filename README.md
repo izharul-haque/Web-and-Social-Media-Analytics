@@ -57,7 +57,6 @@ We used sensitivity- specificity and precision-recall matrix for the model.
 - Hence, we can conclude that this model is good.
 
 ## Tech
-----------------------------------------
 The following technologies were used for this part of the project:
 - Python 3
 - Jupyter Notebook
