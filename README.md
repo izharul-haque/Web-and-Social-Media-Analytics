@@ -10,5 +10,7 @@ Customer is a mobile manufacturer based in the US, who entered the market three 
 
 # Solution:
 The solution has been divided into two parts.
+
 Part 1: Deriving the business insights that are useful for product development and marketing.
+
 Part 2: Creating a sentiment classification engine.
