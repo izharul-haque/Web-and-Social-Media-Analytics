@@ -4,12 +4,11 @@ This is a NLP project for Web and Social Media Analytics
 
 Dataset available: http://jmcauley.ucsd.edu/data/amazon/index_2014.html
 
-
-# Problem Statement
+## Problem Statement
 
 Customer is a mobile manufacturer based in the US, who entered the market three years ago. As a new entrant in the sector, they want to understand their competitors and preferences of their users so that they can design their strategies accordingly.They want to tweak the marketing strategies to add more value to their brand, provide features to customers that add the most value, and close the demand-supply gap. Their objective is to increase the market share as well as the brand value.
 
-# Objective
+## Objective
 
 ### Product Development And Marketing Strategies
 - Development of features that have high utility value for the customers
@@ -18,11 +17,9 @@ Customer is a mobile manufacturer based in the US, who entered the market three 
 - Market share of the competitors
 - Pricing strategies based on features, utility and competitor's pricing strategies
 
-
-# Solution:
+## Solution:
 
 ### The solution has been divided into two parts.
-
 Part 1: Deriving the business insights that are useful for product development and marketing.
 Part 2: Creating a sentiment classification engine.
 
@@ -41,13 +38,13 @@ Steps 1 to 3 discussed below form the first part of the solution and step 4 cons
 ### Reviews Price Distribution Wise
 ![image](https://user-images.githubusercontent.com/76435558/167937454-3d1cdafa-e169-4490-a256-aafb3676d447.png)
 
-# Data Science Model
+## Data Science Model
 Our goal was to use Naive Bayes for text classification for sentiment analysis of the reviews and helps in faster decision making.
 
-# Model Evaluation
+## Model Evaluation
 We used sensitivity- specificity and precision-recall matrix for the model.
 
-# Results
+## Results
 
 ### Models accuracy,sensitivity,specificity on train and test dataset are :
 - Train dataset :accuracy(87%),sensitivity (95%),specificity(64%)
@@ -59,7 +56,7 @@ We used sensitivity- specificity and precision-recall matrix for the model.
 - Area under curve : 90%
 - Hence, we can conclude that this model is good.
 
-# Tech
+## Tech
 ----------------------------------------
 The following technologies were used for this part of the project:
 - Python 3
