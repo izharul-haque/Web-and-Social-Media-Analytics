@@ -63,4 +63,4 @@ The following technologies were used for this part of the project:
 - Pandas: Python package for data analysis
 - Numpy: Python package for numerical analysis
 - Scikit-learn: Python package for predictive analysis
-- Matplotlib, Seaborn and Missingno: Python 2D plotting library
+- Matplotlib and Seaborn for plotting graphs
