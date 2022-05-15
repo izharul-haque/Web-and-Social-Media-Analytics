@@ -45,6 +45,7 @@ Our goal was to use Naive Bayes for text classification for sentiment analysis o
 We used sensitivity- specificity and precision-recall matrix for the model.
 
 ## Results
+The application of random oversampling model has resulted in an equal distribution of the binary labels. This has resulted in a jump in specificity by 0.23 with a slight decrease in the sensitivity by 0.08.
 
 ### Models accuracy,sensitivity,specificity on train and test dataset are :
 - Train dataset :accuracy(87%),sensitivity (95%),specificity(64%)
